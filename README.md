@@ -34,21 +34,33 @@
 ## OUTPUT :
 
 ## Support Removal Process
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/772fb2a3-62b2-4654-8777-d06c89da300e)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/54ddd8f1-cf4e-4812-9573-129f16839b59)
+
+![Screenshot 2024-12-04 112931](https://github.com/user-attachments/assets/d6fd2fa9-c716-40b1-88cb-1f2587703eda)
+
+![Screenshot 2024-12-04 113233](https://github.com/user-attachments/assets/cb0b9de9-9e6a-4c5d-8c8e-65529974c164)
+
 
 ## UV Curing of 3D printed part
-![1234_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/b8aaa899-f319-4192-9dd7-126717137bfd)
-![1234_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/5fa69c3d-4e61-4226-b2ad-b0765c0cd498)
+
+![Screenshot 2024-12-04 113501](https://github.com/user-attachments/assets/ad55c595-66aa-4f3f-9527-ce53b1878572)
+
+![Screenshot 2024-12-04 113717](https://github.com/user-attachments/assets/22234aed-b1f4-4fba-91a0-1760005be4c9)
+
+
+
 
 ## Heat Treatment of 3D printed part
-![123_1](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/22c2fbe1-2159-46bf-b6aa-d7704484aa8a)
-![123_2](https://github.com/Sellakumar1987/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/2801d001-e6cd-4b6c-9d5f-712067d3bc3c)
+
+
+![Screenshot 2024-12-04 114057](https://github.com/user-attachments/assets/caae7ff5-d07a-49e3-b8c3-0307f4e0f788)
+
+![Screenshot 2024-12-04 114247](https://github.com/user-attachments/assets/898fed20-7f9b-41fb-9562-94b958a4028b)
+
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:R.mounish vamsi kumar
+### Register Number:24003774
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
